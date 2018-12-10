@@ -91,4 +91,11 @@ www  WEB部署目录（或者子目录）==
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/sql.sql)
 ### 截图
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取token.png)
-![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/token.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取Authentication.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/保存新闻1.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/保存新闻传入json数据2.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取list.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/分页.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/通过id查询单条.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/通过id删除新闻.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/修改.png)
