@@ -86,5 +86,8 @@ www  WEB部署目录（或者子目录）==
 
 ![](https://github.com/Leslin/thinkphp5-restfulapi/blob/master/screenshot/accesstoken.png)
 
-### 截图
+### 执行sql
 
+![](https://github.com/Leslin/thinkphp5-restfulapi/blob/master/screenshot/sql.sql)
+### 截图
+![](https://github.com/Leslin/thinkphp5-restfulapi/blob/master/screenshot/token.png)
