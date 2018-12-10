@@ -90,7 +90,9 @@ www  WEB部署目录（或者子目录）==
 
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/sql.sql)
 ### 截图
+获取token
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取token.png)
+获取Authentication
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取Authentication.png)
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/保存新闻1.png)
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/保存新闻传入json数据2.png)
