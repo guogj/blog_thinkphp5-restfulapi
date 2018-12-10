@@ -2,10 +2,12 @@
 执行sql 
 https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/sql.sql
 
-备注：本项目引用Leslin/thinkphp5-restfulapi 接口
+
+本项目引用Leslin/thinkphp5-restfulapi 接口
 实现了接口 增删改查。
 路由不明白可以查看thinkphp5_1资源路由文档
-ThinkPHP5.1* restfulapi
+
+备注：blog_thinkphp5-restfulapi
 ====================
 
 基于ThinkPHP5.1* 基础上开发的一个简单的restful api ，带权限验证等
