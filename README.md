@@ -94,10 +94,47 @@ www  WEB部署目录（或者子目录）==
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取token.png)
 获取Authentication
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取Authentication.png)
+插入数据 json数据  
+{
+    "list": {
+        "1": {
+            "cid": 1,
+            "img_url": 1,
+            "news_neme": "张三",
+            "content": "张三的歌曲"
+        },
+        "2": {
+            "cid": 1,
+            "img_url": 1,
+            "news_neme": "历史",
+            "content": "历史的歌曲"
+        },
+        "3": {
+            "cid": 1,
+            "img_url": 1,
+            "news_neme": "是的范德萨",
+            "content": "范德萨范德萨"
+        },
+        "4": {
+            "cid": 1,
+            "img_url": 1,
+            "news_neme": "范德萨范德萨",
+            "content": "方法方法发广告呵呵呵"
+        }
+    }
+}
+
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/保存新闻1.png)
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/保存新闻传入json数据2.png)
+
+获取列表数据
+
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取list.png)
+获取分页数据get   可以通过page pageSize 获取分页
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/分页.png)
+通过id查询单条
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/通过id查询单条.png)
+通过id删除新闻
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/通过id删除新闻.png)
+修改.png
 ![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/修改.png)
