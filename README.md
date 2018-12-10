@@ -88,6 +88,6 @@ www  WEB部署目录（或者子目录）==
 
 ### 执行sql
 
-![](https://github.com/Leslin/thinkphp5-restfulapi/blob/master/screenshot/sql.sql)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/sql.sql)
 ### 截图
-![](https://github.com/Leslin/thinkphp5-restfulapi/blob/master/screenshot/token.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/token.png)
