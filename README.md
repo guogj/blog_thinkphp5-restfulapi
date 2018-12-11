@@ -1,4 +1,13 @@
-ThinkPHP5.1* restfulapi
+
+执行sql 
+https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/sql.sql
+
+
+本项目引用Leslin/thinkphp5-restfulapi 接口
+实现了接口 增删改查。
+路由不明白可以查看thinkphp5_1资源路由文档
+
+备注：blog_thinkphp5-restfulapi
 ====================
 
 基于ThinkPHP5.1* 基础上开发的一个简单的restful api ，带权限验证等
@@ -7,10 +16,6 @@ ThinkPHP5.1* restfulapi
 
 详细开发文档参考 [ThinkPHP5完全开发手册](https://www.kancloud.cn/manual/thinkphp5_1/353946)
 
-
-## 使用目前tp5.1相关新增功能，包含容器依赖注入、Facade、验证器等，与上一个版本相比，简化代码量，整个代码量只有不到200行，增加鉴权白名单，refresh_token等
-## 欢迎PR
-## 老版本tp5.0*相关代码请到release下载对应代码
 
 ## 目录结构
 
@@ -87,4 +92,51 @@ www  WEB部署目录（或者子目录）==
 ![](https://github.com/Leslin/thinkphp5-restfulapi/blob/master/screenshot/accesstoken.png)
 
 ### 截图
+获取token
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取token.png)
+获取Authentication
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取Authentication.png)
+插入数据 json数据  
+{
+    "list": {
+        "1": {
+            "cid": 1,
+            "img_url": 1,
+            "news_neme": "张三",
+            "content": "张三的歌曲"
+        },
+        "2": {
+            "cid": 1,
+            "img_url": 1,
+            "news_neme": "历史",
+            "content": "历史的歌曲"
+        },
+        "3": {
+            "cid": 1,
+            "img_url": 1,
+            "news_neme": "是的范德萨",
+            "content": "范德萨范德萨"
+        },
+        "4": {
+            "cid": 1,
+            "img_url": 1,
+            "news_neme": "范德萨范德萨",
+            "content": "方法方法发广告呵呵呵"
+        }
+    }
+}
 
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/保存新闻1.png)
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/保存新闻传入json数据2.png)
+
+获取列表数据
+
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/获取list.png)
+获取分页数据get   可以通过page pageSize 获取分页
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/分页.png)
+通过id查询单条
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/通过id查询单条.png)
+通过id删除新闻
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/通过id删除新闻.png)
+修改.png
+![](https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/修改.png)
