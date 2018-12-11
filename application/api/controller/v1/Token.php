@@ -30,7 +30,7 @@ class Token
 	/**
 	 * appsercet
 	 */
-	public static $appsercet="123456";
+	public static $appsercet;
 
 	/**
 	 * 生成token
@@ -94,7 +94,7 @@ class Token
 			if($params['appid'] != $user['appid']){
 				return self::returnMsg(401,'appid 不存在！');
 			}
-//			self::$appsercet = $user['appsercet'];
+			self::$appsercet = $user['appsercet'];
 		}
 		//签名检测
 		$sign = Oauth::makeSign($params,self::$appsercet);

@@ -16,7 +16,7 @@ class GetAuthentication extends Controller
     {
         $appid = "jun";
         $uid = "11";
-        $accesstoken = "shC2c1iJ37986VN0z1RE5k7LA85dlfZv";
+        $accesstoken = "A1o0IOqFD7rhuMW8ntva35LCSkXBdzQG";
         $base = $appid.':'.$accesstoken.':'.$uid;
         $opt['authentication'] = $uid." ".base64_encode($base);
         var_dump($opt);
