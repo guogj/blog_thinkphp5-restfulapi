@@ -4,9 +4,287 @@
     <list default="true" id="f75c7736-ac18-4b29-9e10-ecc9f106f045" name="默认的" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/application/api/controller/v1/Goods.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/application/api/controller/v1/Token2.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/accesstoken.png" afterPath="$PROJECT_DIR$/screenshot/accesstoken.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/token.png" afterPath="$PROJECT_DIR$/screenshot/token.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/保存新闻1.png" afterPath="$PROJECT_DIR$/screenshot/保存新闻1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/保存新闻传入json数据2.png" afterPath="$PROJECT_DIR$/screenshot/保存新闻传入json数据2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/修改.png" afterPath="$PROJECT_DIR$/screenshot/修改.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/分页.png" afterPath="$PROJECT_DIR$/screenshot/分页.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/获取Authentication.png" afterPath="$PROJECT_DIR$/screenshot/获取Authentication.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/获取list.png" afterPath="$PROJECT_DIR$/screenshot/获取list.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/获取token.png" afterPath="$PROJECT_DIR$/screenshot/获取token.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/通过id删除新闻.png" afterPath="$PROJECT_DIR$/screenshot/通过id删除新闻.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/通过id查询单条.png" afterPath="$PROJECT_DIR$/screenshot/通过id查询单条.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/bin/hiddeninput.exe" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/bin/hiddeninput.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/logo.png" afterPath="$PROJECT_DIR$/thinkphp/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/thinkphp5-restfulapi.iml" afterPath="$PROJECT_DIR$/.idea/thinkphp5-restfulapi.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/.htaccess" afterPath="$PROJECT_DIR$/application/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/config.php" afterPath="$PROJECT_DIR$/application/api/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/Api.php" afterPath="$PROJECT_DIR$/application/api/controller/Api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/Base.php" afterPath="$PROJECT_DIR$/application/api/controller/Base.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/Exception.php" afterPath="$PROJECT_DIR$/application/api/controller/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/Oauth.php" afterPath="$PROJECT_DIR$/application/api/controller/Oauth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/Send.php" afterPath="$PROJECT_DIR$/application/api/controller/Send.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/v1/Apiuser.php" afterPath="$PROJECT_DIR$/application/api/controller/v1/Apiuser.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/v1/GetAuthentication.php" afterPath="$PROJECT_DIR$/application/api/controller/v1/GetAuthentication.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/v1/News.php" afterPath="$PROJECT_DIR$/application/api/controller/v1/News.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/v1/Token.php" afterPath="$PROJECT_DIR$/application/api/controller/v1/Token.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/v1/User.php" afterPath="$PROJECT_DIR$/application/api/controller/v1/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/controller/v2/Goods.php" afterPath="$PROJECT_DIR$/application/api/controller/v2/Goods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/model/ApiuserModel.php" afterPath="$PROJECT_DIR$/application/api/model/ApiuserModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/model/NewsModel.php" afterPath="$PROJECT_DIR$/application/api/model/NewsModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/utils/ArrayUtil.php" afterPath="$PROJECT_DIR$/application/api/utils/ArrayUtil.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/utils/DataParser.php" afterPath="$PROJECT_DIR$/application/api/utils/DataParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/validate/Apiuser.php" afterPath="$PROJECT_DIR$/application/api/validate/Apiuser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/validate/News.php" afterPath="$PROJECT_DIR$/application/api/validate/News.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/validate/Token.php" afterPath="$PROJECT_DIR$/application/api/validate/Token.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/api/view/v1/apiuser/index.html" afterPath="$PROJECT_DIR$/application/api/view/v1/apiuser/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/command.php" afterPath="$PROJECT_DIR$/application/command.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/common.php" afterPath="$PROJECT_DIR$/application/common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/controller/Index.php" afterPath="$PROJECT_DIR$/application/index/controller/Index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/provider.php" afterPath="$PROJECT_DIR$/application/provider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/tags.php" afterPath="$PROJECT_DIR$/application/tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.php" afterPath="$PROJECT_DIR$/build.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/cache.php" afterPath="$PROJECT_DIR$/config/cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/console.php" afterPath="$PROJECT_DIR$/config/console.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/cookie.php" afterPath="$PROJECT_DIR$/config/cookie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/log.php" afterPath="$PROJECT_DIR$/config/log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/middleware.php" afterPath="$PROJECT_DIR$/config/middleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/session.php" afterPath="$PROJECT_DIR$/config/session.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/template.php" afterPath="$PROJECT_DIR$/config/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/trace.php" afterPath="$PROJECT_DIR$/config/trace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extend/.gitignore" afterPath="$PROJECT_DIR$/extend/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/.htaccess" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.php" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/router.php" afterPath="$PROJECT_DIR$/public/router.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/static/.gitignore" afterPath="$PROJECT_DIR$/public/static/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/route/route.php" afterPath="$PROJECT_DIR$/route/route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/.gitignore" afterPath="$PROJECT_DIR$/runtime/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenshot/sql.sql" afterPath="$PROJECT_DIR$/screenshot/sql.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/think" afterPath="$PROJECT_DIR$/think" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/.gitignore" afterPath="$PROJECT_DIR$/thinkphp/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/.htaccess" afterPath="$PROJECT_DIR$/thinkphp/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/thinkphp/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/LICENSE.txt" afterPath="$PROJECT_DIR$/thinkphp/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/README.md" afterPath="$PROJECT_DIR$/thinkphp/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/base.php" afterPath="$PROJECT_DIR$/thinkphp/base.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/composer.json" afterPath="$PROJECT_DIR$/thinkphp/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/convention.php" afterPath="$PROJECT_DIR$/thinkphp/convention.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/helper.php" afterPath="$PROJECT_DIR$/thinkphp/helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/lang/zh-cn.php" afterPath="$PROJECT_DIR$/thinkphp/lang/zh-cn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/App.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/App.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Build.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Build.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Cache.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Collection.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Collection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Config.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Console.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Console.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Container.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Container.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Controller.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Cookie.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Cookie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Db.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Debug.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Debug.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Env.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Env.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Error.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Exception.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Facade.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Facade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/File.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Hook.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Hook.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Lang.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Loader.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Log.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Middleware.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Middleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Model.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Paginator.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Paginator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Process.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Process.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Request.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Response.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Route.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Session.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Session.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Template.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Url.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Url.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/Validate.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/Validate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/View.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/Driver.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/Driver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/File.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Lite.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Lite.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Memcache.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Memcache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Memcached.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Memcached.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Redis.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Redis.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Sqlite.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Sqlite.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Wincache.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Wincache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Xcache.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Xcache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Ini.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Ini.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Json.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Xml.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/config/driver/Xml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/Command.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/Command.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/Input.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/Input.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/LICENSE" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/Output.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/Output.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/bin/README.md" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/bin/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/Build.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Build.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/Clear.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Clear.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/Help.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Help.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/Lists.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Lists.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/Make.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/Make.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/RunServer.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/RunServer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Controller.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Middleware.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Middleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Model.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Validate.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/Validate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/controller.api.stub" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/controller.api.stub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/controller.plain.stub" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/controller.plain.stub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/controller.stub" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/controller.stub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/middleware.stub" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/middleware.stub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/model.stub" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/model.stub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/validate.stub" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/make/stubs/validate.stub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Autoload.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Config.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Route.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Schema.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/command/optimize/Schema.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/input/Argument.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Argument.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/input/Definition.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Definition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/input/Option.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/input/Option.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/Ask.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Ask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/Descriptor.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Descriptor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/Formatter.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Formatter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/Question.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/Question.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/descriptor/Console.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/descriptor/Console.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Buffer.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Buffer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Console.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Console.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Nothing.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/driver/Nothing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/formatter/Stack.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/formatter/Stack.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/formatter/Style.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/formatter/Style.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/question/Choice.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/question/Choice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/console/output/question/Confirmation.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/console/output/question/Confirmation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/Builder.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Builder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/Connection.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Connection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/Expression.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Expression.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/Query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Mysql.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Mysql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Pgsql.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Pgsql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Sqlite.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Sqlite.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Sqlsrv.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/builder/Sqlsrv.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Mysql.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Mysql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Pgsql.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Pgsql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Sqlite.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Sqlite.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Sqlsrv.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/Sqlsrv.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/connector/pgsql.sql" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/connector/pgsql.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/exception/BindParamException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/BindParamException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/exception/DataNotFoundException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/DataNotFoundException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/db/exception/ModelNotFoundException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/db/exception/ModelNotFoundException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/debug/Console.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/debug/Console.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/debug/Html.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/debug/Html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/ClassNotFoundException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ClassNotFoundException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/DbException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/DbException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/ErrorException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ErrorException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/Handle.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/Handle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/HttpException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/HttpException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/HttpResponseException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/HttpResponseException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/PDOException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/PDOException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/RouteNotFoundException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/RouteNotFoundException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/TemplateNotFoundException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/TemplateNotFoundException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/ThrowableError.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ThrowableError.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/exception/ValidateException.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/exception/ValidateException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/App.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/App.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Build.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Build.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Cache.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Config.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Cookie.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Cookie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Debug.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Debug.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Env.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Env.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Hook.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Hook.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Lang.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Log.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Middleware.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Middleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Request.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Response.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Route.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Session.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Session.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Url.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Url.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/Validate.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/Validate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/facade/View.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/facade/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/log/driver/File.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Socket.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/log/driver/Socket.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/Collection.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Collection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/Pivot.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Pivot.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/Relation.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/Relation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/concern/Attribute.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/concern/Attribute.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/concern/Conversion.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/concern/Conversion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/concern/ModelEvent.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/concern/ModelEvent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/concern/RelationShip.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/concern/RelationShip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/concern/SoftDelete.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/concern/SoftDelete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/concern/TimeStamp.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/concern/TimeStamp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/BelongsTo.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/BelongsTo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/BelongsToMany.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/BelongsToMany.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasMany.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasMany.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasManyThrough.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasManyThrough.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasOne.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/HasOne.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/MorphMany.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/MorphMany.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/MorphOne.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/MorphOne.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/MorphTo.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/MorphTo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/model/relation/OneToOne.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/model/relation/OneToOne.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/paginator/driver/Bootstrap.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/paginator/driver/Bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/process/Builder.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/Builder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/process/Utils.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/Utils.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Faild.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Faild.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Failed.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Failed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Timeout.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/exception/Timeout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Pipes.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Pipes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Unix.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Unix.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Windows.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/process/pipes/Windows.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/response/Json.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/response/Jsonp.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Jsonp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/response/Jump.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Jump.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/response/Redirect.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Redirect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/response/View.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/response/Xml.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/response/Xml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/AliasRule.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/AliasRule.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/Dispatch.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/Dispatch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/Domain.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/Domain.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/Resource.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/Resource.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/Rule.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/Rule.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/RuleGroup.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/RuleGroup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/RuleItem.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/RuleItem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/RuleName.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/RuleName.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Callback.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Controller.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Module.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Module.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Redirect.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Redirect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Response.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Url.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/Url.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/View.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/route/dispatch/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Memcache.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Memcache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Memcached.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Memcached.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Redis.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/session/driver/Redis.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/template/TagLib.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/TagLib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/template/driver/File.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/driver/File.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/template/taglib/Cx.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/template/taglib/Cx.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/validate/ValidateRule.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/validate/ValidateRule.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/view/driver/Php.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/view/driver/Php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/think/view/driver/Think.php" afterPath="$PROJECT_DIR$/thinkphp/library/think/view/driver/Think.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/library/traits/controller/Jump.php" afterPath="$PROJECT_DIR$/thinkphp/library/traits/controller/Jump.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/phpunit.xml.dist" afterPath="$PROJECT_DIR$/thinkphp/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/tpl/default_index.tpl" afterPath="$PROJECT_DIR$/thinkphp/tpl/default_index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/tpl/dispatch_jump.tpl" afterPath="$PROJECT_DIR$/thinkphp/tpl/dispatch_jump.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/tpl/page_trace.tpl" afterPath="$PROJECT_DIR$/thinkphp/tpl/page_trace.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinkphp/tpl/think_exception.tpl" afterPath="$PROJECT_DIR$/thinkphp/tpl/think_exception.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/.gitignore" afterPath="$PROJECT_DIR$/vendor/.gitignore" />
     </list>
     <ignored path="thinkphp5-restfulapi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,10 +336,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GetAuthentication.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GetAuthentication.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/api/controller/v1/GetAuthentication.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29963008">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
@@ -90,11 +368,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Token.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Token.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/api/controller/v1/Token.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.418604">
-              <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.64973956">
+              <caret line="96" column="47" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -241,6 +519,86 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinkphp5-restfulapi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog_thinkphp5-restfulapi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinkphp5-restfulapi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog_thinkphp5-restfulapi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinkphp5-restfulapi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog_thinkphp5-restfulapi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinkphp5-restfulapi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog_thinkphp5-restfulapi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -311,10 +669,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30960086" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30960086" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -670,10 +1028,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/api/utils/DataParser.php">
+    <entry file="file://$PROJECT_DIR$/application/api/controller/v1/GetAuthentication.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -686,18 +1044,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/api/controller/v1/Token.php">
+    <entry file="file://$PROJECT_DIR$/application/api/utils/DataParser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.418604">
-          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/api/controller/v1/GetAuthentication.php">
+    <entry file="file://$PROJECT_DIR$/application/api/controller/v1/Token.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29963008">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.64973956">
+          <caret line="96" column="47" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="47" />
           <folding />
         </state>
       </provider>
