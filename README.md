@@ -5,7 +5,8 @@ https://github.com/guogj/blog_thinkphp5-restfulapi/blob/master/screenshot/sql.sq
 
 本项目引用Leslin/thinkphp5-restfulapi 接口
 实现了接口 增删改查。
-路由不明白可以查看thinkphp5_1资源路由文档
+路由不明白可以查看thinkphp5_1资源路由文档。
+如果有不明白的可以QQ:295719991。交流
 
 备注：blog_thinkphp5-restfulapi
 ====================
