@@ -14,6 +14,7 @@ class GetAuthentication extends Controller
      */
     public function index()
     {
+
         $appid = "jun";
         $uid = "11";
         $accesstoken = "A1o0IOqFD7rhuMW8ntva35LCSkXBdzQG";
